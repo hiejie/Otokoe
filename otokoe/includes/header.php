@@ -14,12 +14,14 @@
     <header id="site-header">
       <div class="container">
 
-        <div class="logo">
-          <a href="index.php">
-            <span class="logo-icon">☕</span>
-            Otokoe
-          </a>
-        </div>
+      <div class="logo">
+  <a href="index.php">
+    <span class="logo-icon">
+      <img src="img/logo.png" alt="Otokoe Logo" class="logo-img">
+    </span>
+    Otokoe
+  </a>
+</div>
 
         <nav>
           <button id="toggle-navigation" aria-expanded="false">
